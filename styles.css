@@ -1,13 +1,7 @@
-
-
-
-
-
-
 .image-bg {
     width: 193px;
     height: 200px;
-    background-image: url('Messi.png');
+    background-image: url('messi.png');
     background-size: cover;
 }
 
